@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Arunkarthik</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **vulcan analytics**
+- 🔭 I’m currently working on **Phonepe Pulse Data Visualization and Exploration**
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+- 🌱 I’m currently learning **GenAI**
 
 - 💬 Ask me about **AI & ML stuff**
 
 - 📫 How to reach me **arunkarthik.k97@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/106psri-PRpCGj0j-3mZOcLw1YOAy3LHq/view?usp=drive_link](https://drive.google.com/file/d/106psri-PRpCGj0j-3mZOcLw1YOAy3LHq/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1D3qL9YFA_hkV9vwTu0zt0QOAriwX04bd/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,8 +18,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-<br>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,sklearn,opencv,tensorflow,pytorch,django,pycharm,java,spring,idea,mysql,postgres,mongodb,git,github,gitlab,gcp,postman&perline=9" />
+  </a>
+  
+<br><br>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=Arunkarthik-K&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
