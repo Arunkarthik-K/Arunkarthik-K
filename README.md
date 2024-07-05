@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Arunkarthik</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate AI Engineer from India</h3>
 
-- 🔭 I’m currently working on **Phonepe Pulse Data Visualization and Exploration**
+- 🔭 An accomplished IT professional with **3.5 years** of experience, including 2 years of relevant experience in the AIML field, skilled in Python programming, AIML frameworks, and algorithms. Seeking to leverage these skills and experience to drive business insights and decision-making.
 
-- 🌱 I’m currently learning **GenAI**
+- 💻 Worked on various live projects with **international and domestic clients**.
 
 - 💬 Ask me about **AI & ML stuff**
 
 - 📫 How to reach me **arunkarthik.k97@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1D3qL9YFA_hkV9vwTu0zt0QOAriwX04bd/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1MHF2TyMvHspRccCP6O62hzIl1yw72wJt/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
